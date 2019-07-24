@@ -12,7 +12,7 @@ In this workshop, you’ll get acquainted with the base architecture of Theia, y
 The workshop consists of several exercises, starting from learning how to build and run Theia applications and ending with developing [react-jsonschema-form](https://mozilla-services.github.io/react-jsonschema-form/) Theia extension.
 For each exercise, there are 2 branches in the repository: one with an exercise and another with a solution. The solution for exercise 3 is the final solution.
 
-### Getting started
+### Getting startedasdasdasd
 
 During the workshop, you will use Theia-based Online IDE for GitHub - Gitpod.
 To start with exercises you only need the modern browser. For the best experience, please use [Chrome](https://www.google.com/chrome/).
